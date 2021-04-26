@@ -1,0 +1,6 @@
+﻿  MultiMatrix.cpp
+  мат прог 4.cpp
+C:\Users\Anastasia PC\Desktop\Универ\2 курс\2 семестр\Мат прога\4 лаба\мат прог 4\мат прог 4.cpp(19,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Anastasia PC\Desktop\Универ\2 курс\2 семестр\Мат прога\4 лаба\мат прог 4\мат прог 4.cpp(27,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  мат прог 4.vcxproj -> C:\Users\Anastasia PC\Desktop\Универ\2 курс\2 семестр\Мат прога\4 лаба\мат прог 4\Debug\мат прог 4.exe
