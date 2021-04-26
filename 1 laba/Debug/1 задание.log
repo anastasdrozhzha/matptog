@@ -1,0 +1,4 @@
+﻿  1 задание.cpp
+C:\Users\Anastasia PC\Desktop\Универ\2 курс\2 семестр\Мат прога\1 задание\1 задание.cpp(72,44): warning C4334: <<: результат 32-разрядного смещения неявно преобразуется в 64-разрядное значение (предполагалось 64-разрядное смещение?)
+MSVCRTD.lib(exe_winmain.obj) : error LNK2019: ссылка на неразрешенный внешний символ _WinMain@16 в функции "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ).
+C:\Users\Anastasia PC\Desktop\Универ\2 курс\2 семестр\Мат прога\1 задание\Debug\1 задание.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
